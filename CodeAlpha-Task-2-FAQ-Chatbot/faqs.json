@@ -1,0 +1,120 @@
+[
+  {
+    "question": "What courses are available?",
+    "variations": [
+      "Tell me about the courses",
+      "Which courses can I study?",
+      "What programs does the college offer?",
+      "List the available courses"
+    ],
+    "answer": "Our college offers various courses. Please check the official college prospectus for the complete list."
+  },
+  {
+    "question": "What are the admission requirements?",
+    "variations": [
+      "How can I get admission?",
+      "What qualifications do I need?",
+      "How do I join the college?",
+      "What is the eligibility for admission?"
+    ],
+    "answer": "Admission requirements depend on the course. Please check the official admission guidelines."
+  },
+  {
+    "question": "How can I apply for scholarships?",
+    "variations": [
+      "Tell me about scholarships",
+      "How do I get a scholarship?",
+      "Where can I apply for financial aid?",
+      "What is the scholarship application process?"
+    ],
+    "answer": "Check the official scholarship portals for eligibility, required documents, and application deadlines."
+  },
+  {
+    "question": "When are examinations conducted?",
+    "variations": [
+      "When are the exams?",
+      "What is the exam schedule?",
+      "When will examinations start?",
+      "Where can I find exam dates?"
+    ],
+    "answer": "Please check the official academic calendar for examination dates."
+  },
+  {
+    "question": "How can I contact the college?",
+    "variations": [
+      "What is the college phone number?",
+      "How do I contact the college office?",
+      "What is the college email address?",
+      "Where can I find college contact details?"
+    ],
+    "answer": "Visit the official college website for contact numbers, email addresses, and office details."
+  },
+  
+  {
+    "question": "What are the college fees?",
+    "variations": [
+      "How much are the fees?",
+      "What is the fee structure?",
+      "How much do I need to pay?"
+    ],
+    "answer": "The fee structure depends on the course. Please check the official college fee details."
+  },
+  {
+    "question": "How can I check my results?",
+    "variations": [
+      "When will results be announced?",
+      "Where can I see my marks?",
+      "How do I check exam results?"
+    ],
+    "answer": "Please check the official college or university results portal."
+  },
+  {
+    "question": "What facilities are available in the college?",
+    "variations": [
+      "Does the college have a library?",
+      "What facilities does the campus have?",
+      "Tell me about college facilities"
+    ],
+    "answer": "Facilities vary by college. Please check the official college website for details."
+  },
+  
+  {
+    "question": "How can I apply for admission?",
+    "variations": [
+      "How do I join the college?",
+      "What is the admission process?",
+      "How do I get admission?",
+      "Where can I apply for admission?"
+    ],
+    "answer": "Please visit the official college website or admission office for application procedures and deadlines."
+  },
+  {
+    "question": "What documents are required for admission?",
+    "variations": [
+      "Which documents do I need for admission?",
+      "What certificates are needed?",
+      "What should I submit for admission?"
+    ],
+    "answer": "Required documents may include academic marksheets, identification, photographs, and other certificates. Confirm the exact list with the admission office."
+  },
+  {
+    "question": "How can I check my results?",
+    "variations": [
+      "Where can I see my marks?",
+      "How do I check exam results?",
+      "When will the results be announced?"
+    ],
+    "answer": "Please check the official college or university results portal for examination results."
+  },
+  {
+    "question": "Is hostel accommodation available?",
+    "variations": [
+      "hostel accommodation available",
+      "Does the college have a hostel?",
+      "Can students stay in a hostel?",
+      "What accommodation is available?"
+    ],
+    "answer": "Please contact the college office or visit the official website to confirm hostel availability, fees, and application details."
+  }
+
+]
